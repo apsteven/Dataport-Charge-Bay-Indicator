@@ -1,0 +1,12 @@
+
+
+2 EDE2SRD Super Bright Red LED Light Bar	DE/2SURKD	56-1700
+5 EDE2SGD Super Bright Green LED Light Bar	DE/2CGKD	56-1705 or 56-1707 (Rapidonline)
+5 EDE2YD Yellow LED Light Bar			DE/2SYKD	56-1706 (Rapidonline)
+6 5mm White – Diffused or Clear			
+6 3mm Blue – CLEAR
+2 5mm Red – Diffused 
+1 10uf Cap – C1
+1 .1uf Cap – C2
+1 28k Ohm 1/4 Watt Resistor
+1 Maxim 7219CNG IC 
